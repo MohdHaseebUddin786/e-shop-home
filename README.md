@@ -1,1 +1,1 @@
-# eshophome
+# e-shop-home
